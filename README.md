@@ -292,7 +292,7 @@ print("MSE only for Smoker:", np.sqrt(mean_squared_error(Y_test,smoker_model.pre
 
 
 
-📊 ***Example Insights (Replace with your findings)***
+📊 ***Insights***
 - Smokers have significantly higher insurance charges than non-smokers
 - BMI is positively correlated with insurance cost
 - Premium increases consistently with age
